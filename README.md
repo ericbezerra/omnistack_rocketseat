@@ -1,2 +1,2 @@
-# omnistack_rocketseat
-omnistack_rocketseat
+# Omnistack da rocketseat
+Curso fullstack e mobile omnistack da rocketseat
